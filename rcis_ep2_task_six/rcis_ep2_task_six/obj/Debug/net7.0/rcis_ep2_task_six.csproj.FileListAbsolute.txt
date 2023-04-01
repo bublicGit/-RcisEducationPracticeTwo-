@@ -1,0 +1,17 @@
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\bin\Debug\net7.0\rcis_ep2_task_six.exe
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\bin\Debug\net7.0\rcis_ep2_task_six.deps.json
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\bin\Debug\net7.0\rcis_ep2_task_six.runtimeconfig.json
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\bin\Debug\net7.0\rcis_ep2_task_six.dll
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\bin\Debug\net7.0\rcis_ep2_task_six.pdb
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\rcis_ep2_task_six.csproj.AssemblyReference.cache
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\rcis_ep2_task_six.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\rcis_ep2_task_six.AssemblyInfoInputs.cache
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\rcis_ep2_task_six.AssemblyInfo.cs
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\rcis_ep2_task_six.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\rcis_ep2_task_six.dll
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\refint\rcis_ep2_task_six.dll
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\rcis_ep2_task_six.pdb
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\rcis_ep2_task_six.genruntimeconfig.cache
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\ref\rcis_ep2_task_six.dll
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Разработка\C#\rcis_ep2_task_six\rcis_ep2_task_six\obj\Debug\net7.0\rcis_ep2_task_six.csproj.CopyComplete

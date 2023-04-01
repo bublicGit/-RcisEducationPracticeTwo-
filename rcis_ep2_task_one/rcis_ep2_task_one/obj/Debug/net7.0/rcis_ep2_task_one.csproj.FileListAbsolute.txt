@@ -1,0 +1,15 @@
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\bin\Debug\net7.0\rcis_ep2_task_one.exe
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\bin\Debug\net7.0\rcis_ep2_task_one.deps.json
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\bin\Debug\net7.0\rcis_ep2_task_one.runtimeconfig.json
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\bin\Debug\net7.0\rcis_ep2_task_one.dll
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\bin\Debug\net7.0\rcis_ep2_task_one.pdb
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\obj\Debug\net7.0\rcis_ep2_task_one.csproj.AssemblyReference.cache
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\obj\Debug\net7.0\rcis_ep2_task_one.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\obj\Debug\net7.0\rcis_ep2_task_one.AssemblyInfoInputs.cache
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\obj\Debug\net7.0\rcis_ep2_task_one.AssemblyInfo.cs
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\obj\Debug\net7.0\rcis_ep2_task_one.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\obj\Debug\net7.0\rcis_ep2_task_one.dll
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\obj\Debug\net7.0\refint\rcis_ep2_task_one.dll
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\obj\Debug\net7.0\rcis_ep2_task_one.pdb
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\obj\Debug\net7.0\rcis_ep2_task_one.genruntimeconfig.cache
+D:\Разработка\C#\rcis_ep2_task_one\rcis_ep2_task_one\obj\Debug\net7.0\ref\rcis_ep2_task_one.dll

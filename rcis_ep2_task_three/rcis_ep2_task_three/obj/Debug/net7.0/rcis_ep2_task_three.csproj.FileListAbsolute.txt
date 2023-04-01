@@ -1,0 +1,15 @@
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\bin\Debug\net7.0\rcis_ep2_task_three.exe
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\bin\Debug\net7.0\rcis_ep2_task_three.deps.json
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\bin\Debug\net7.0\rcis_ep2_task_three.runtimeconfig.json
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\bin\Debug\net7.0\rcis_ep2_task_three.dll
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\bin\Debug\net7.0\rcis_ep2_task_three.pdb
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\obj\Debug\net7.0\rcis_ep2_task_three.csproj.AssemblyReference.cache
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\obj\Debug\net7.0\rcis_ep2_task_three.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\obj\Debug\net7.0\rcis_ep2_task_three.AssemblyInfoInputs.cache
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\obj\Debug\net7.0\rcis_ep2_task_three.AssemblyInfo.cs
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\obj\Debug\net7.0\rcis_ep2_task_three.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\obj\Debug\net7.0\rcis_ep2_task_three.dll
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\obj\Debug\net7.0\refint\rcis_ep2_task_three.dll
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\obj\Debug\net7.0\rcis_ep2_task_three.pdb
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\obj\Debug\net7.0\rcis_ep2_task_three.genruntimeconfig.cache
+D:\Разработка\C#\rcis_ep2_task_three\rcis_ep2_task_three\obj\Debug\net7.0\ref\rcis_ep2_task_three.dll
